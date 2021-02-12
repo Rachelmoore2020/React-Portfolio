@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: 'Rachel Moore',
-  subtitle: 'Full-Stack Web Developer',
+  name: '',
+  subtitle: "I'm a Full-Stack Web Developer",
   cta: '',
 };
 
@@ -60,18 +60,18 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'weather-dashboard.jpg',
-    title: 'React Directory',
-    info: 'Search employees and sort columns',
+    title: 'Weather Dashboard',
+    info: 'Search any city and obtain weather information. Find wind speed, humidity, temperature and uv index. The color of the uv index serves as a visual alert as to the risk level of exposure to uv rays.',
     info2: '',
     url: 'https://rachelmoore2020.github.io/Weather-Dashboard/.',
     repo: 'https://github.com/Rachelmoore2020/Weather-Dashboard', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'weather-dashboard.jpg',
-    title: 'Weather Dashboard',
+    img: 'employeedir.jpg',
+    title: 'React Directory',
     info:
-      'Search any city and obtain weather information. Find wind speed, humidity, temperature and uv index. The color of the uv index serves as a visual alert as to the risk level of exposure to uv rays.',
+    'A react app that lets you search employees and sort columns',
     info2: '',
     url: 'https://rachelmoore2020.github.io/Weather-Dashboard/.',
     repo: 'https://github.com/Rachelmoore2020/Weather-Dashboard', // if no repo, the button will not show up
@@ -103,31 +103,23 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'rachelmoore6822@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    
+    
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/rachel-moore-636a1956/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Rachelmoore2020',
     },
   ],
 };
