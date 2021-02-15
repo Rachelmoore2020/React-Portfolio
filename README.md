@@ -53,9 +53,9 @@ For questions about Node File Generator, visit my GitHub page:
     Rachelmoore2020
 
 ## Demonstration:
-![portfoliosm](https://user-images.githubusercontent.com/68473729/107991571-e7404280-6fa4-11eb-98d5-c738028dded5.gif)
+![portfoliosm](https://user-images.githubusercontent.com/68473729/107991767-4736e900-6fa5-11eb-8008-961e02b4aec2.gif)
 
-  
+
   ## You may also contact me via email at:
   rachelmoore6822@gmail.com
   
