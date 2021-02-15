@@ -95,7 +95,7 @@ export const projectsData = [
       'A node/express app that allows a user to add a burger they would like to eat and add it to the devoured list, once eaten.',
     info2: '',
     url: 'https://radiant-shelf-72295.herokuapp.com/',
-    repo: 'https://github.com/Rachelmoore2020/Burger-Eater', // if no repo, the button will not show up
+    repo: 'https://github.com/Rachelmoore2020/Burger-Eater/tree/master', // if no repo, the button will not show up
   },
 ];
 
