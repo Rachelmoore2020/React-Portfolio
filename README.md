@@ -1,15 +1,16 @@
 
 
   # React Portfolio
+  https://competent-boyd-71d02f.netlify.app/
 
   ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
   
-
+![portfolio](https://user-images.githubusercontent.com/68473729/107989329-12746300-6fa0-11eb-8a91-158c94c3cb62.jpg)
 
     # Table of Contents
 
 * [Description](#description)
-* [See deployed site here]()
+* [Deployment](#see-deployed-site-here)
 * [User Story](#user-story)
 * [Installation](#what-command-should-be-run-to-install-dependencies)
 * [Usage](#what-does-the-user-need-to-know-about-using-the-repo)
@@ -53,7 +54,9 @@ For questions about Node File Generator, visit my GitHub page:
     Rachelmoore2020
 
 ## Demonstration:
-  
+![portfoliosm](https://user-images.githubusercontent.com/68473729/107991767-4736e900-6fa5-11eb-8008-961e02b4aec2.gif)
+
+
   ## You may also contact me via email at:
   rachelmoore6822@gmail.com
   
