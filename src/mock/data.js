@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     'In her spare time Moore enjoys coding, painting, designing and constructing with wood and concrete, and learning from Youtube. As a world traveler, Moore has visited over 30 countries, lived in southeast Asia and speaks fluent Portuguese. She currently teaches Adobe video, Digital Design and Animation and Game art and Design.  She lives in Greensboro, NC with her family and dog.',
   paragraphThree: 'Always learning, always growing, I strive to be the best.',
-  resume: 'https://drive.google.com/file/d/1qzFNnHxnnS1THMv4tdTKHKmPHX9TwDJs/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1z3z_wFZrJJIC0r11gB9R97k8zsAvusSq/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
